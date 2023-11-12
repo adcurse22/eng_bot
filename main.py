@@ -43,7 +43,7 @@ def handle_answer(message):
     user_id = message.from_user.id
 
     if user_id not in user_data:
-        return  # Пользователь начал вводить текст до команды /start
+        return
 
     user_data[user_id]['answers'].append(message.text)
     user_data[user_id]['index'] += 1
