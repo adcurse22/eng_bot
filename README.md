@@ -46,7 +46,7 @@ npm start
 
 The bot should now be running and accessible through the platform you've set up.
 Usage
-
+```
 Interact with the bot through your chosen messaging platform. The bot will guide you through the following steps:
 
     Welcome Message: Initiation by the bot, greeting the user.
@@ -72,3 +72,5 @@ Contact
 Your Name - orhan03233@gmail.com
 
 Project Link: https://github.com/yourusername/english-school-bot
+
+if
