@@ -72,5 +72,3 @@ Contact
 Your Name - orhan03233@gmail.com
 
 Project Link: https://github.com/yourusername/english-school-bot
-
-asdasdasdasd
